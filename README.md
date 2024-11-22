@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadEnayat
 - 👀 I’m interested in Flutter, Jetpack Compose and SwiftUI
-- 🌱 I’m currently learning Swift programming
-- 💞️ I’m looking to collaborate on Mobile developemnet
+- 🌱 I’m currently learning Backend with Python.
+- 💞️ I’m looking to collaborate on Mobile developement
 - 📫 How to reach me mohammadenayat04@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
